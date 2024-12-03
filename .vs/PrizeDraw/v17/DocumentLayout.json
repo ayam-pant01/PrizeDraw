@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266E4259-DBF8-4D62-9E7A-63B687DD730A}|PrizeDraw\\PrizeDraw.csproj|e:\\work\\2024\\fiserv prizedraw\\prizedraw\\prizedraw\\prizedraw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{266E4259-DBF8-4D62-9E7A-63B687DD730A}|PrizeDraw\\PrizeDraw.csproj|solutionrelative:prizedraw\\prizedraw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266E4259-DBF8-4D62-9E7A-63B687DD730A}|PrizeDraw\\PrizeDraw.csproj|e:\\work\\2024\\fiserv prizedraw\\prizedraw\\prizedraw\\prizemoneycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266E4259-DBF8-4D62-9E7A-63B687DD730A}|PrizeDraw\\PrizeDraw.csproj|solutionrelative:prizedraw\\prizemoneycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312614B-2664-4FD0-8495-817EAEC1FA6D}|PrizeDraw.Tests\\PrizeDraw.Tests.csproj|e:\\work\\2024\\fiserv prizedraw\\prizedraw\\prizedraw.tests\\prizedrawtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D312614B-2664-4FD0-8495-817EAEC1FA6D}|PrizeDraw.Tests\\PrizeDraw.Tests.csproj|solutionrelative:prizedraw.tests\\prizedrawtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266E4259-DBF8-4D62-9E7A-63B687DD730A}|PrizeDraw\\PrizeDraw.csproj|e:\\work\\2024\\fiserv prizedraw\\prizedraw\\prizedraw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266E4259-DBF8-4D62-9E7A-63B687DD730A}|PrizeDraw\\PrizeDraw.csproj|solutionrelative:prizedraw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrizeDraw",
+              "DocumentMoniker": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw\\PrizeDraw.csproj",
+              "RelativeDocumentMoniker": "PrizeDraw\\PrizeDraw.csproj",
+              "ToolTip": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw\\PrizeDraw.csproj",
+              "RelativeToolTip": "PrizeDraw\\PrizeDraw.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T20:27:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrizeMoneyCalculator.cs",
+              "DocumentMoniker": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw\\PrizeMoneyCalculator.cs",
+              "RelativeDocumentMoniker": "PrizeDraw\\PrizeMoneyCalculator.cs",
+              "ToolTip": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw\\PrizeMoneyCalculator.cs",
+              "RelativeToolTip": "PrizeDraw\\PrizeMoneyCalculator.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAjwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:46:45.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrizeDrawTests.cs",
+              "DocumentMoniker": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw.Tests\\PrizeDrawTests.cs",
+              "RelativeDocumentMoniker": "PrizeDraw.Tests\\PrizeDrawTests.cs",
+              "ToolTip": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw.Tests\\PrizeDrawTests.cs",
+              "RelativeToolTip": "PrizeDraw.Tests\\PrizeDrawTests.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:40:45.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw\\Program.cs",
+              "RelativeDocumentMoniker": "PrizeDraw\\Program.cs",
+              "ToolTip": "E:\\Work\\2024\\Fiserv PrizeDraw\\PrizeDraw\\PrizeDraw\\Program.cs",
+              "RelativeToolTip": "PrizeDraw\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:29:09.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

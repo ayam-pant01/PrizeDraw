@@ -1,0 +1,16 @@
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\PrizeDraw.exe
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\PrizeDraw.deps.json
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\PrizeDraw.runtimeconfig.json
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\PrizeDraw.dll
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\PrizeDraw.pdb
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.AssemblyInfoInputs.cache
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.AssemblyInfo.cs
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.csproj.CoreCompileInputs.cache
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.dll
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\refint\PrizeDraw.dll
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.pdb
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\PrizeDraw.genruntimeconfig.cache
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\obj\Debug\net8.0\ref\PrizeDraw.dll
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\inputfile.txt
+E:\Work\2024\Fiserv PrizeDraw\PrizeDraw\PrizeDraw\bin\Debug\net8.0\test.txt
